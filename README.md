@@ -8,8 +8,7 @@ Du'a Jaradat
 
 ## Links and Resources
 
-- [Automation Code]()
-- [Pull Request]()
+- [Pull Request](https://github.com/duajaradat/django-snacks/pull/1)
 
 ---
 
